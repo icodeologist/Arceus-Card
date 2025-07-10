@@ -13,9 +13,7 @@ A simple Go web app that fetches data about **Arceus** (Pokémon #493) from the 
 - Styled using static assets (optional)
 - Dockerized for easy deployment
 
----
-## How to run it
----
+
 
 ## Run with Docker
 
