@@ -23,14 +23,8 @@ A simple Go web app that fetches data about **Arceus** (Pokémon #493) from the 
 ```bash
 docker build -t arceus-app .
 ```
-```  
 
 ### Step 2: Run the Docker image
-
-docker run -p 3000:3000 arceus-app 
-
-
-```
-```
-```
+```bash
+docker run -p 3000:3000 arceus-app
 ```
